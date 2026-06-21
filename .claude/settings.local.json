@@ -6,7 +6,9 @@
       "Bash(python3:*)",
       "Bash(python:*)",
       "Bash(PYTHONIOENCODING=utf-8 python:*)",
-      "Bash(dir *)"
+      "Bash(dir *)",
+      "Bash(mv \"20260620\" \"20260620-蓮生法王於美國〈西雅圖雷藏寺〉主持「準提佛母本尊法同修」暨講授《大佛頂首楞嚴經》\")",
+      "Read(//c/c/Users/USER/ai-cowork/projects/dharma-report/**)"
     ]
   }
 }
